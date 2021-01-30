@@ -5,3 +5,5 @@ git hub..........###
 #fetch
 #pull
 #merge
+
+checking through smart git
